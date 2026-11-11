@@ -76,8 +76,8 @@ def main():
         print()
         print("Usage:")
         print(
-            r'  python "C:\Users\266510\Desktop\DSRT930\Living\hc3_regression.py" '
-            r'"C:\Users\266510\Desktop\DSRT930\Living\Q6_Q29_with_Constructs_Updated.csv"'
+            r'  python "path to your python file" '
+            r'"path to your csv"'
         )
         sys.exit(1)
 
